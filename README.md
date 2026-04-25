@@ -157,7 +157,7 @@ Why this matters:
 - it helps the agent run more reliably
 
 ### 4. Load the model
-The code loads (This model is used as the reasoning engine for the agent.):
+The code loads (This model is used as the reasoning engine for the agent):
 
 ```text
 Qwen/Qwen2.5-1.5B-Instruct
