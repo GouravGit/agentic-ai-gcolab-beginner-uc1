@@ -26,8 +26,8 @@ This repository uses a simple mathematical task — **calculating the factorial 
 - [What This Project Teaches](#what-this-project-teaches)
 - [Mental Model](#mental-model)
 - [Known Notes](#known-notes)
-- [Possible Enhancements](#possible-enhancements)
-- [License](#license)
+- [Who This Repository Is For](#who-this-repository-is-for)
+- [Author](#author)
 
 ---
 
@@ -278,3 +278,16 @@ A simple way to understand the overall architecture is:
 - Hugging Face authentication is optional for public models, but adding an `HF_TOKEN` can improve download reliability and speed.
 - The custom patched pipeline is included to make streaming more stable during agent execution.
 - This is a learning-focused project, so the use case is intentionally small and easy to follow.
+
+## Who This Repository Is For
+
+This project is ideal for:
+
+- beginners learning the fundamentals of Agentic AI,
+- developers exploring LangChain-based agents,
+- students learning how tool-enabled LLMs work,
+- engineers building a foundation before moving to more advanced agent systems.
+
+## Author
+
+Created as a starter repository for learning and experimenting with **Agentic AI** using Python, Google Colab, and tool-enabled language models.
