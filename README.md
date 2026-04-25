@@ -196,3 +196,12 @@ This prompt uses a **ReAct-style** pattern:
 - **Action**
 - **Action Input**
 - **Final Answer**
+
+### 9. Create the agent
+The code uses `create_react_agent(...)` to combine:
+
+- the language model,
+- the available tools,
+- and the prompt template.
+
+This creates the core decision-making agent.
