@@ -101,7 +101,6 @@ Final Answer
 This project follows a simple agent loop where the language model reasons about the task, decides whether a tool is needed, executes the tool if required, observes the result, and then returns the final answer.
 ```
 ### Agent Loop
-### High-Level Flow
 
 ```mermaid
 flowchart TD
