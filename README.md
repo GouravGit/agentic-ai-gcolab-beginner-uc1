@@ -220,3 +220,19 @@ The input task is:
 
 ```python
 "Use Python to calculate factorial of 6"
+```
+
+## How to Run
+
+### Option 1: Run in Google Colab
+
+1. Open Google Colab.
+2. Upload or paste the code from `ai_agent_math_factorial.py`.
+3. Run the installation cells.
+4. Run the remaining cells in sequence.
+5. Wait for the model to download and initialize.
+6. Observe the agent’s reasoning steps and final output.
+
+### Option 2: Run from the exported script
+
+If you want to run the code as a Python script, first move the notebook-specific installation commands into your local or virtual environment setup.
