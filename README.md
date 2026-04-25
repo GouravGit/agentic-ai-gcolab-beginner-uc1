@@ -125,3 +125,9 @@ This project is built using the following tools and frameworks:
 - **Hugging Face Transformers** — model and tokenizer loading
 - **Accelerate** — model execution support
 - **Qwen/Qwen2.5-1.5B-Instruct** — instruction-tuned language model used as the reasoning engine
+
+
+## Project File
+
+```text
+ai_agent_math_factorial.py
