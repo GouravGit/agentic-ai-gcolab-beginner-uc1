@@ -23,7 +23,7 @@ This repository uses a simple mathematical task — **calculating the factorial 
 - [How the Code Works](#how-the-code-works)
 - [How to Run](#how-to-run)
 - [Expected Output](#expected-output)
-- [What I Learned](#what-i-learned)
+- [What This Project Teaches](#what-i-learned) 
 - [Known Notes](#known-notes)
 - [Possible Enhancements](#possible-enhancements)
 - [License](#license)
@@ -248,3 +248,15 @@ Because:
 
 ```text
 6! = 6 × 5 × 4 × 3 × 2 × 1 = 720
+```
+
+## What This Project Teaches
+
+This project is useful for understanding:
+
+- the difference between a traditional chatbot and an AI agent,
+- how a language model can use external tools,
+- how prompts influence agent behavior,
+- how LangChain agents are structured,
+- how a Python tool can be integrated into an agent workflow,
+- how to design a beginner-friendly Agentic AI experiment in Google Colab.
