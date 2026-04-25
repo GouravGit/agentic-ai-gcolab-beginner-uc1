@@ -131,7 +131,7 @@ This project is built using the following tools and frameworks:
 ## Project File
 
 ```text
-ai_agent_math_factorial.py
+main.py
 ```
 
 ## How the Code Works
